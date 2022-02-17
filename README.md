@@ -19,6 +19,7 @@ To run the program:
 3) Run the executable file 'shannon_voter_sw2kd.exe'
 
 --------Input files-----------
+
 ---> "seed.in"
 - this is a file with 12 integer numbers separated by blank spaces.
 - this file is updated at the end of each run.
@@ -30,6 +31,7 @@ To run the program:
 - nb: number of measures
 
 ---------Output file----------
+
 ---> "SW_Shannon_***_###.dat"
 - ***: represents the rewiring probability for this run of the simulation
 - ###: indicates the sample for this run - program runs 10 different networks
